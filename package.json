@@ -1,0 +1,26 @@
+{
+  "name": "projeto03m03",
+  "version": "1.0.0",
+  "description": "projeto de uma api de crud para personagens ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazaroopaiva/projeto03m03.git"
+  },
+  "author": "Lazaro Paiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazaroopaiva/projeto03m03/issues"
+  },
+  "homepage": "https://github.com/lazaroopaiva/projeto03m03#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.19"
+  }
+}
